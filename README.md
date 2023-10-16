@@ -8,8 +8,8 @@
 5. Rachellia Ayu Herdani (210711019)
 
 ## Deskripsi pembagian
-1. Login_page : Marshel Rinaldy
-2. Register_page : Rachellia Ayu Herdani
-3. Login_state, Login_event, Login_bloc : Bryan Matthew Alexander
-4. Register_state, Register_event, Register_bloc : William Darmawan
-5. Model, Login_repository, Register_repository, dan bantu yang lain : Aldo Putra Wohangara
+1. Login & Register : Marshel Rinaldy
+2. Create Data Kursus : Rachellia Ayu Herdani
+3. Read Edit Delete Data Kursus : Bryan Matthew Alexander
+4. Profile : William Darmawan
+5. HomePage : Aldo Putra Wohangara
