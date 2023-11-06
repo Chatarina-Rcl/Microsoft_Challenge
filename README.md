@@ -8,8 +8,8 @@
 5. Rachellia Ayu Herdani (210711019)
 
 ## Deskripsi pembagian
-1. Login & Register : Marshel Rinaldy
-2. Create Data Kursus : Rachellia Ayu Herdani
-3. Read Edit Delete Data Kursus : Bryan Matthew Alexander
-4. Profile : William Darmawan
-5. HomePage : Aldo Putra Wohangara
+1. text-to-speech : Marshel Rinaldy
+2. Update Profil : Rachellia Ayu Herdani
+3. Foto Profil : Bryan Matthew Alexander
+4. speech-to-text : William Darmawan
+5. Scan QR Code : Aldo Putra Wohangara
